@@ -1,0 +1,10 @@
+D:\237\Semester-Webb\Restaurant-Webb\Restaurant-Webb\bin\Restaurant-Webb.dll.config
+D:\237\Semester-Webb\Restaurant-Webb\Restaurant-Webb\bin\Restaurant-Webb.dll
+D:\237\Semester-Webb\Restaurant-Webb\Restaurant-Webb\bin\Restaurant-Webb.pdb
+D:\237\Semester-Webb\Restaurant-Webb\Restaurant-Webb\obj\Debug\Restaurant-Webb.csprojResolveAssemblyReference.cache
+D:\237\Semester-Webb\Restaurant-Webb\Restaurant-Webb\obj\Debug\Restaurant-Webb.dll
+D:\237\Semester-Webb\Restaurant-Webb\Restaurant-Webb\obj\Debug\Restaurant-Webb.pdb
+K:\237\Semester-Webb\Restaurant-Webb\Restaurant-Webb\obj\Debug\Restaurant-Webb.csprojResolveAssemblyReference.cache
+K:\237\Semester-Webb\Restaurant-Webb\Restaurant-Webb\obj\Debug\Restaurant-Webb.dll
+C:\Users\Lucas\Documents\Carroll Programs\237\Semester-Webb\Restaurant-Webb\Restaurant-Webb\obj\Debug\Restaurant-Webb.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Carroll Programs\237\Semester-Webb\Restaurant-Webb\Restaurant-Webb\obj\Debug\Restaurant-Webb.csproj.CoreCompileInputs.cache

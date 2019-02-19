@@ -1,0 +1,37 @@
+﻿<Advertisements>
+  <Ad>
+    <ImageUrl>images/banners/banner1.JPG</ImageUrl>
+    <Navigation>http://www.bigitalyvb.com/restaurants/mamas-italian-kitchen/</Navigation>
+    <AlternateText>Mama's Italian Kitchen</AlternateText>
+    <Keywords></Keywords>
+    <Caption>Mma's Italian Kitchen</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/banners/banner2.JPG</ImageUrl>
+    <Navigation>http://giovannisitalianrestaurant.com/</Navigation>
+    <AlternateText>Giovannis</AlternateText>
+    <Keywords></Keywords>
+    <Caption>Giovannis</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/banners/banner3.JPG</ImageUrl>
+    <Navigation>http://www.antonios.co/italian-deli-restaurants-in-gainesville-fl/</Navigation>
+    <AlternateText>Antonios</AlternateText>
+    <Keywords></Keywords>
+    <Caption>Antonios</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/banners/banner4.JPG</ImageUrl>
+    <Navigation>http://www.parmigianos.com/#location</Navigation>
+    <AlternateText>Parmigianos</AlternateText>
+    <Keywords></Keywords>
+    <Caption>Parmigianos</Caption>
+  </Ad>
+  <Ad>
+    <ImageUrl>images/banners/banner5.JPG</ImageUrl>
+    <Navigation>http://avantispeoria.com/</Navigation>
+    <AlternateText>Avanti's Ristorante</AlternateText>
+    <Keywords></Keywords>
+    <Caption>Avanti's Ristorante</Caption>
+  </Ad>
+</Advertisements>

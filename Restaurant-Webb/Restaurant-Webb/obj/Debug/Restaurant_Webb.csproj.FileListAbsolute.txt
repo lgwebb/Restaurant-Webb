@@ -1,0 +1,2 @@
+C:\Users\Lucas\Documents\Carroll Programs\237\Semester-Webb\Restaurant-Webb\Restaurant-Webb\obj\Debug\Restaurant_Webb.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Carroll Programs\237\Semester-Webb\Restaurant-Webb\Restaurant-Webb\obj\Debug\Restaurant_Webb.csproj.CoreCompileInputs.cache

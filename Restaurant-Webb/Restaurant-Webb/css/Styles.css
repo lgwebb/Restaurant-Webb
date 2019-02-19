@@ -1,0 +1,280 @@
+﻿body 
+{
+    font-family:Calibri, sans-serif;
+    font-size:1.1em;
+    background-color:black;
+}
+
+#DivWrapper
+{
+    width:98%;
+    min-height:890px;
+    overflow:auto;
+    /*border:1px solid black;*/
+    margin:auto;
+}
+
+#DivHeader
+{
+    width:100%;
+    height:130px;
+    background-color:#589e9a;
+    color:white;
+    text-align:center;
+    font-size:x-large;
+    font-weight:bold;
+    border-bottom:1px solid black;
+}
+
+#Header
+{
+    font-size:xx-large;
+}
+
+#DivMenu
+{
+    width:100%;
+    height:30px;
+    border-bottom:1px solid black;
+    background-color:#e8ffb9;
+    color:navy;
+    font-size:1.2em;
+    font-weight:bold;
+}
+
+#DivMenu ul
+{
+    margin-top:0px;
+    height:30px;
+    background-color:#e8ffb9;
+}
+
+#DivMenu li
+{
+    width:120px;
+    float:left;
+    position:relative;
+    list-style-type:none;
+    
+}
+
+#DivMenu a
+{
+    text-decoration:none;
+    display:block;
+    height:30px;
+}
+
+#DivMenu a:hover
+{
+    color:red;
+    font-weight:bold;
+}
+
+#DivContent
+{
+    width:98%;
+    min-height:450px; 
+    padding-top:1%;
+    padding-left:2%;
+    padding-bottom:2%;
+    overflow:auto;
+    border-bottom:1px solid black;
+    background-color:white;
+    text-align:left;
+}
+
+#DivFooter
+{
+    width:100%;
+    height:30px;
+    background-color:#589e9a;
+    color:white;
+    text-align:center;
+    font-size:large;
+}
+
+section
+{
+    width:98%;
+    margin:auto;
+    min-height:500px;
+    /*padding-left:1%;
+    padding-right:1%;*/
+    position:relative;
+    float:left;
+    background-color:#ffffff;
+}
+
+footer
+{
+    width:98%;
+    min-height:50px;
+    padding-left:1%;
+    padding-right:1%;
+    position:relative;
+    float:left;
+    font-size:.8em;
+    text-align:center;
+    background-color:#589e9a;
+    color:#ffffff;
+}
+
+#TableMain
+{
+    border:1px solid black;
+    margin:auto;
+    min-height:250px;
+    border-width:2px;
+    width: 40%;
+}
+
+
+#TableMain td
+{
+    margin:auto;
+    text-align:center;
+}
+
+.currentpage
+{
+    background-color:lightgreen;
+}
+
+.important
+{
+    color:red;
+    font-weight:bold;
+}
+
+.labelLong
+{
+    width:60%;
+}
+
+.highlighted
+{
+    font-weight:bold;
+    font-size:1.1em;
+    height:40px;
+}
+
+#artMenu
+{
+    background-color:black;
+}
+
+#tableMenu
+{
+    width:90%;
+    min-height:500px;
+    border:1px solid red;
+    background-color:#ffa5a5;
+
+}
+
+#tableMenu tbody td 
+{
+    border:1px solid black;
+    width:50%;
+}
+
+.img
+{
+    width:30%;
+    float:left;
+}
+
+.name
+{
+    font-weight:bold;
+    background-color:#ffa5a5;
+    font-size:1.3em;
+}
+
+.price
+{
+    font-weight:bolder;
+    font-size: 1.5em;
+}
+
+#artCreate
+{
+    text-align:center;
+    margin:auto;
+
+}
+
+#artCreate table
+{
+    text-align:center;
+}
+
+.TableAbout
+{
+    min-height:200px;
+    margin:auto;
+    width:50%;
+    min-height:100px;
+    border:1px solid black;
+}
+
+.TableAbout
+{
+    padding-bottom:1%;
+}
+
+.TableContact
+{
+    min-height:200px;
+    margin:auto;
+    width:50%;
+    min-height:100px;
+    border:1px solid black;
+}
+
+.TableCalendar
+{
+    min-height:350px;
+    margin:auto;
+    width:50%;
+    min-height:100px;
+    border:1px solid black;
+}
+
+.TablePhoto
+{
+    min-height:400px;
+    margin:auto;
+    width:50%;
+    min-height:100px;
+    border:1px solid black;
+}
+
+.TableCalendar td
+{
+    padding-top:1%;
+    padding-bottom:1%;
+}
+
+.TableContact td
+{
+    padding-top:1%;
+    padding-bottom:1%;
+}
+
+.TableHeadGrey
+{
+    text-align:center;
+    background-color: gray;
+    color:white;
+    font-weight:bold;
+}
+
+.Calendar
+{
+    text-align:center;
+    margin:auto;
+    position:relative;
+}
+
